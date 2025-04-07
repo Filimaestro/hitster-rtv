@@ -1,0 +1,37 @@
+Version number: v0.0.3
+Last change: 17/03/2025 - 10:45
+
+17/03/2025 - 10:19 - v0.0.1
+I (not Cursor AI) have added the notes and MVP/Rules files to the folder for the AI Agent to keep track of his own changes, improvements and mistakes. 
+I'm going to use this as a test to see if we can easily spot mistakes and learn from them. At 9:36 I asked the AI to look at the files in the folder
+and create a step by step plan on how to build this tool. I also gave him information on how to update this file.
+
+17/03/2025 - 10:25 - v0.0.2
+AI Agent has created a comprehensive development plan in DevelopmentPlan.txt. The plan is structured in 5 phases, focusing on delivering a functional MVP quickly while maintaining code quality. The plan includes all required features from the MVP document and follows a mobile-first approach. Technical stack has been chosen to ensure rapid development and easy deployment.
+
+17/03/2025 - 10:30 - v0.0.3
+AI Agent has revised the technical stack and development plan after reconsidering the cross-platform requirements. The new stack uses React Native Web as the primary framework, allowing for a single codebase that works across all platforms (web and native mobile). This change better addresses the requirement for both native app and website support while maintaining a mobile-first approach. The backend stack has been simplified to use Node.js with Express and MongoDB for better flexibility and easier maintenance.
+
+17/03/2025 - 10:45 - v0.0.4
+Set up the initial project structure with Expo and TypeScript. Created the basic file structure including:
+- Basic App.tsx with initial setup
+- TypeScript configuration
+- Project configuration (package.json, app.config.ts)
+- Directory structure for components, screens, and utilities
+Next steps will focus on implementing the core game components, starting with the timeline visualization.
+
+v0.0.5 - 2024-03-19
+- Implemented drag-and-drop functionality for event cards
+- Optimized UI for mobile-first design:
+  - Reduced card sizes (80px height)
+  - Improved spacing and typography
+  - Added visual feedback for dragging
+  - Made timeline container 30% of screen height
+- Added gesture handling with react-native-reanimated
+- Added proper error handling and logging
+- Improved overall layout and visual hierarchy
+- Next steps:
+  - Implement timeline slot interaction
+  - Add drop zone visual feedback
+  - Add submit button and scoring system
+  - Add game state management

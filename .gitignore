@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.expo/
+web-build/
+
+# Production
+dist/
+build/
+
+# Misc
+.DS_Store
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+npm-debug.*
+*.log
+
+# macOS
+*.pem
+
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# debug
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+*.tsbuildinfo 

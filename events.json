@@ -1,0 +1,92 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "De eerste computer",
+      "description": "De eerste programmeerbare computer, Colossus wordt gebouwd",
+      "date": "14 februari, 1946",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Colossus.jpg",
+      "articleUrl": "https://www.computerhistory.org/timeline/1946/"
+    },
+    {
+      "id": "2",
+      "title": "Einde van WO II",
+      "description": "De Tweede Wereldoorlog eindigt",
+      "date": "2 september, 1945",
+      "imageUrl": "https://www.nelson.edu/wp-content/uploads/2024/12/7-Interesting-Features-of-World-War-2-2.jpg",
+      "articleUrl": "https://www.history.com/topics/world-war-ii/v-j-day"
+    },
+    {
+      "id": "3",
+      "title": "Eerste mens op de maan",
+      "description": "Neil Armstrong stapt voor het eerst op de maan",
+      "date": "20 juli, 1969",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/106030426-1563640096851gettyimages-851487.jpeg?v=1710279701",
+      "articleUrl": "https://www.nasa.gov/mission/apollo-11/"
+    },
+    {
+      "id": "4",
+      "title": "Berlijnse Muur valt",
+      "description": "Het iconische symbool van de Koude Oorlog wordt afgebroken",
+      "date": "9 november, 1989",
+      "imageUrl": "https://enrs.eu/uploads/media/5c9e0f9af1891-1024px-berlin-1989-fall-der-mauer-chute-du-mur-08.jpg",
+      "articleUrl": "https://www.history.com/topics/cold-war/fall-of-berlin-wall"
+    },
+    {
+      "id": "5",
+      "title": "Eerste iPhone uitgebracht",
+      "description": "Apple introduceert de iPhone",
+      "date": "29 juni, 2007",
+      "imageUrl": "https://images.unsplash.com/photo-1510878933023-e2e2e3942fb0",
+      "articleUrl": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+      "id": "6",
+      "title": "COVID-19 Pandemie",
+      "description": "Een wereldwijde pandemie verandert de wereld",
+      "date": "11 maart, 2020",
+      "imageUrl": "https://images.unsplash.com/photo-1584483766114-2cea6facdf57",
+      "articleUrl": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+    },
+    {
+      "id": "7",
+      "title": "Nintendo opgericht",
+      "description": "Een nieuwe spellengigant ziet het levenslicht.",
+      "date": "23 september, 1889",
+      "imageUrl": "https://www.gamereactor.nl/media/27/supermariorpg_4142723b.jpg",
+      "articleUrl": "https://www.nintendo.com/us/corporate/history/"
+    },
+    {
+      "id": "8",
+      "title": "Promotie FC Emmen",
+      "description": "FC Emmen promoveert voor het eerst naar de Eredivisie",
+      "date": "20 mei, 2018",
+      "imageUrl": "https://i.regiogroei.cloud/6d97d404-3b8b-3c6f-9c02-70b7cc7d83c5.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/15710279/fc-emmen-voor-het-eerst-naar-de-eredivisie"
+    },
+    {
+      "id": "9",
+      "title": "Wolf doodgeschoten in Wapse",
+      "description": "Burgemeester Rikus Jager liet het dier afschieten.",
+      "date": "9 juli, 2023",
+      "imageUrl": "https://i.regiogroei.cloud/e2f2f5dc-c861-3553-958b-5c18946b4639.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/15710279/wolf-doodgeschoten-na-bijtincident-met-schapenboer-wapse"
+    },
+    {
+      "id": "10",
+      "title": "'Boerderijgezin' Ruinerwold ontdekt",
+      "description": "Het gezin wacht op het einde der tijden.",
+      "date": "13 oktober, 2019",
+      "imageUrl": "https://i.regiogroei.cloud/6d97d404-3b8b-3c6f-9c02-70b7cc7d83c5.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/16901000/gezin-uit-ruinerwold-jarenlang-in-isolatie-hoe-een-bizarre-situatie-5-jaar-geleden-wereldwijd-de-aandacht-trok"
+    },
+    {
+      "id": "11",
+      "title": "Relus ter Beek overleden",
+      "description": "De Drentse CdK overlijdt op 64-jarige leeftijd.",
+      "date": "29 september, 2008",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Relus_ter_beek2.JPG",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/16901000/gezin-uit-ruinerwold-jarenlang-in-isolatie-hoe-een-bizarre-situatie-5-jaar-geleden-wereldwijd-de-aandacht-trok"
+    }
+  ]
+} 
