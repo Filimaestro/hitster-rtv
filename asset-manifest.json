@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Filimaestro/hitster/static/js/main.397bc7e9.js",
-    "static/js/539.2f4bd49a.js": "/Filimaestro/hitster/static/js/539.2f4bd49a.js",
-    "index.html": "/Filimaestro/hitster/index.html",
-    "manifest.json": "/Filimaestro/hitster/manifest.json",
-    "serve.json": "/Filimaestro/hitster/serve.json",
-    "main.397bc7e9.js.map": "/Filimaestro/hitster/static/js/main.397bc7e9.js.map",
-    "539.2f4bd49a.js.map": "/Filimaestro/hitster/static/js/539.2f4bd49a.js.map"
+    "main.js": "/hitster-rtv/static/js/main.397bc7e9.js",
+    "static/js/539.2f4bd49a.js": "/hitster-rtv/static/js/539.2f4bd49a.js",
+    "index.html": "/hitster-rtv/index.html",
+    "manifest.json": "/hitster-rtv/manifest.json",
+    "serve.json": "/hitster-rtv/serve.json",
+    "main.397bc7e9.js.map": "/hitster-rtv/static/js/main.397bc7e9.js.map",
+    "539.2f4bd49a.js.map": "/hitster-rtv/static/js/539.2f4bd49a.js.map"
   },
   "entrypoints": [
     "static/js/539.2f4bd49a.js",
